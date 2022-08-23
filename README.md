@@ -2,14 +2,11 @@
 <h3 align="center">A passionate game developer and computer science student at https://www.uvg.edu.gt/ </h3>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/andres-quinto-91ab60157/" target="blank"> My linkedIn </a></p>
-
 - 🌱 I’m currently Working on power bi
 
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
 
 - 💬 Ask me about **Unity, c# or blender!**
 
