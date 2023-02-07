@@ -2,7 +2,7 @@
 <h3 align="center">A passionate game developer and computer science student at https://www.uvg.edu.gt/ </h3>
 
 
-- 🌱 I’m currently Working on power bi
+- 🌱 I’m currently Working on power bi & React/node.js
 
 - 🤝 I’m available for freelancing.
 
@@ -39,3 +39,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AndresQuinto5&show_icons=true)
