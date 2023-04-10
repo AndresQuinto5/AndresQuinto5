@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés </h1>
 <h3 align="center">A passionate game developer and computer science student at https://www.uvg.edu.gt/ </h3>
 
+![snake gif](https://github.com/AndresQuinto5/AndresQuinto5/blob/output/github-contribution-grid-snake.svg)
 
 - 🌱 I’m currently Working on power bi & React/node.js
 
