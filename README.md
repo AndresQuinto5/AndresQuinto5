@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aeqv226@gmail.com**
 
-- 📄 Know about me <a href="https://github.com/AndresQuinto5/MyResume/blob/main/Resume.pdf" target="blank">Resume</a>
+- 📄 Know about me <a href="https://github.com/AndresQuinto5/MyResume/blob/main/AndresQuinto_Resume2024.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
