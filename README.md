@@ -16,6 +16,7 @@
 
 ⚡ Fun fact **My favorite videogame is The elder scrolls: Skyrim**
 
+📄 Heres my resume!! [Resume](https://github.com/AndresQuinto5/MyResume/blob/main/AndresQuinto_DataResume2024.pdf)
  </div>
  
 <div align="center"> 
