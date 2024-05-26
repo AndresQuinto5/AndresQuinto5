@@ -60,17 +60,3 @@
     <img width="325" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
 
-  <br/><br/>
-
-  <hr/>
-
-  <br/>
-</div>
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
