@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andres+Quinto!;" />
 </h1>
 
-<h3 align="center">A passionate computer science engineer from Guatemala 🇬🇹</h3>
+<h3 align="center">Data Scientist & MLOps Engineer from Guatemala 🇬🇹</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker & Tableau**
+ 🌱 I’m currently focused on **MLOps (MLflow, Jenkins, XyOps)**, building CI/CD pipelines, and integrating **AI Coding Assistants**.
 
-💬 Ask me about **ETL, R, ML... or anything**
+💬 Ask me about **Data Science, Churn Prediction (XGBoost), ETL pipelines, or SQL optimization.**
 
-⚡ Fun fact **My favorite videogame is The elder scrolls: Skyrim**
+⚡ Fun fact: **When I'm not coding in my CachyOS environment, I'm playing Stardew Valley/Lethal Company or taking photos of my Suzuki Swift 2016 GLS.**
 
-📄 Heres my resume!! [Resume](https://github.com/AndresQuinto5/MyResume/blob/main/AndresQuinto_DataResume2024.pdf)
+📄 Here's my resume!! [Resume](https://github.com/AndresQuinto5/MyResume/blob/main/AndresQuinto_DataResume2024.pdf)
  </div>
  
 <div align="center"> 
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.datascienceportfol.io/Andr%C3%A9sQuinto" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -36,8 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,r,anaconda,cmake,discord,ai,linkedin,linux,unity" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql,flask,github,md,regex,yarn" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,linux,jenkins,github,vscode,figma,mongodb,md,regex,ai" /><br>
 </div>
 
 <br/>
