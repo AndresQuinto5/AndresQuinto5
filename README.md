@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: **When I'm not coding in my CachyOS environment, I'm playing Stardew Valley/Lethal Company or taking photos of my Suzuki Swift 2016 GLS.**
 
-📄 Here's my resume!! [Resume](https://github.com/AndresQuinto5/MyResume/blob/main/AndresQuinto_DataResume2024.pdf)
+📄 Here's my resume!! [Resume](https://github.com/AndresQuinto5/MyResume/blob/main/ANDRES%20QUINTO%20RESUME%202026.pdf)
  </div>
  
 <div align="center"> 
